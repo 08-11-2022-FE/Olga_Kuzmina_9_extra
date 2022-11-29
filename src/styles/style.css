@@ -68,13 +68,15 @@ ul li p {
     margin-bottom: 4px;
 }
 ul li span {
+    display: inline-block;
     font-family: 'Lucida Sans Unicode';
     font-size: 22px;
     color: rgba(255, 255, 255, 0.7);
     margin-right: 11px;
+    vertical-align: super;
 }
 ul li i {
-    font-size: 22px;
+    font-size: 42px;
     color: rgba(255, 255, 255, 0.7);
 }
 .item_width-100 {
